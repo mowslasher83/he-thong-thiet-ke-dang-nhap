@@ -14,7 +14,7 @@
     "eject": "react-scripts eject"
   },
   "keywords": ["login", "ui", "design"],
-  "author": "Your Name Here",
+  "author": "Your Name Here",  // Ensure to update with your actual name
   "license": "ISC",
   "repository": {
     "type": "git",
