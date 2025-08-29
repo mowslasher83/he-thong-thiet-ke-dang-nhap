@@ -15,5 +15,9 @@
   },
   "keywords": ["login", "ui", "design"],
   "author": "Your Name Here",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/he-thong-thiet-ke-dang-nhap.git"
+  }
 }
