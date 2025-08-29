@@ -1,0 +1,19 @@
+{
+  "name": "he-thong-thiet-ke-dang-nhap",
+  "version": "1.0.0",
+  "description": "Một hệ thống thiết kế mẫu cho các giao diện đăng nhập đẹp mắt và dễ sử dụng.",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": ["login", "ui", "design"],
+  "author": "",
+  "license": "ISC"
+}
